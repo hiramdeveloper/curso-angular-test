@@ -51,7 +51,7 @@ describe('HoverFocusComponent', () => {
     expect(inputEl.nativeElement.style.backgroungColor).toBe('inherit');
   });
 
-  // it('hovering over parrafo', () => {
+  // it('debe de probar la funcionalidad de la directiva hoverFocus', () => {
   //   inputEl.triggerEventHandler('mouseover', null);
   //   fixture.detectChanges();
   //   expect(inputEl.nativeElement.style.backgroundColor).toBe('blue');
